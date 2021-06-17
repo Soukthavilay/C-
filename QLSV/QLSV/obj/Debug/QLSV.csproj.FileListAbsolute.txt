@@ -1,0 +1,10 @@
+F:\C#\QLSV\QLSV\bin\Debug\QLSV1.exe.config
+F:\C#\QLSV\QLSV\bin\Debug\QLSV1.exe
+F:\C#\QLSV\QLSV\bin\Debug\QLSV1.pdb
+F:\C#\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+F:\C#\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+F:\C#\QLSV\QLSV\obj\Debug\QLSV1.Properties.Resources.resources
+F:\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+F:\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+F:\C#\QLSV\QLSV\obj\Debug\QLSV1.exe
+F:\C#\QLSV\QLSV\obj\Debug\QLSV1.pdb
