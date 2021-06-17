@@ -1,0 +1,20 @@
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\bin\Debug\baitapvenha.exe.config
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\bin\Debug\baitapvenha.exe
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\bin\Debug\baitapvenha.pdb
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csprojAssemblyReference.cache
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\obj\Debug\baitapvenha.Form1.resources
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\obj\Debug\baitapvenha.Properties.Resources.resources
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csproj.GenerateResource.cache
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csproj.CoreCompileInputs.cache
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\obj\Debug\baitapvenha.exe
+E:\Lap Trinh C#\Nháp C#\baitapvenha\baitapvenha\obj\Debug\baitapvenha.pdb
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\bin\Debug\baitapvenha.exe.config
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\bin\Debug\baitapvenha.exe
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\bin\Debug\baitapvenha.pdb
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csprojAssemblyReference.cache
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\obj\Debug\baitapvenha.Form1.resources
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\obj\Debug\baitapvenha.Properties.Resources.resources
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csproj.GenerateResource.cache
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csproj.CoreCompileInputs.cache
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\obj\Debug\baitapvenha.exe
+C:\Users\Laocom\Downloads\baitapvenha\baitapvenha\obj\Debug\baitapvenha.pdb
